@@ -1,3 +1,5 @@
+Built an interactive Spotify Top 50 Global Analytics Dashboard in Power BI to analyze chart performance, artist dominance, and popularity trends using daily ranking data. Leveraged data modeling and advanced DAX to track KPIs such as average popularity, #1 position frequency, explicit content share, distinct songs, and chart position trends, enabling performance insights across songs, artists, album types, and time dimensions for data-driven content analysis.
+
 # Spotify_Top50_Global_Dashboard
 
 🎧 Spotify Top 50 Global – 2025 Analytics Dashboard | Power BI
